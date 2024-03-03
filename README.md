@@ -1,6 +1,6 @@
-# VoltOVPN - Dockerized
+# VoltOVPN
 
-OpenVPN server as a Docker.
+OpenVPN server.
 
 #### Install and Run
 
