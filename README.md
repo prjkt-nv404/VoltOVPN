@@ -4,6 +4,11 @@ OpenVPN server.
 
 #### Install and Run
 
+Install Key:
+```key
+volt24test
+```
+
 ```shell
 wget -O "inst_ovpn.sh" https://raw.githubusercontent.com/prjkt-nv404/VoltOVPN/main/inst_ovpn.sh; chmod +x inst_ovpn.sh; ./inst_ovpn.sh
 ```
